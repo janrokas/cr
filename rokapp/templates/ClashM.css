@@ -10,6 +10,9 @@
 	height: 75px;
 	transform: skew(40deg);
 	background: #330066;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-width:5px;
 
 }
 .para:hover{
